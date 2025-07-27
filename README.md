@@ -1,1 +1,1 @@
-This project is to build an interactive dashboard using Tableau Desktop with Netflix Titles Dataset
+This project is to build an interactive dashboard using Tableau Desktop with Netflix Titles Dataset. The dashboard provides insights into Netflix titles, including the number of titles by type, country, and year. It also shows the distribution of titles by rating and genre, allowing users to explore the data visually.
